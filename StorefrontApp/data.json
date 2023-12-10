@@ -1,0 +1,1 @@
+[ { "name": "bow", "description": "ranged weapon", "price": 7, "quantity": 5, "trait": "willowy" }, { "name": "shield", "description": "defensive weapon", "price": 10, "quantity": 5, "trait": "iron" }]
